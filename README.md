@@ -4,13 +4,13 @@ Backend engineer. Building deterministic developer tools and real-time systems.
 
 ```
   ┌─────────────┐                        ┌─────────────┐
-  │  ┌───────┐  │                        │  function(){ │
-  │  │▒▒▒▒▒▒▒│  │     ┌────────────┐    │   return (   │
-  │  ├───────┤  │     │  6 phases  │    │    <Nav/>    │
-  │  │       │  │     │  <300ms    │    │    <Hero/>   │
-  │  │ ▒▒▒▒▒ │  │────>│  0 AI      │───>│  <Features/> │
-  │  │       │  │     │  55 tests  │    │   <Footer/>  │
-  │  └───────┘  │     └────────────┘    │   )}         │
+  │  ┌───────┐  │                        │  function(){│
+  │  │▒▒▒▒▒▒▒│  │     ┌────────────┐     │   return (  │
+  │  ├───────┤  │     │  6 phases  │     │    <Nav/>   │
+  │  │       │  │     │  <300ms    │     │    <Hero/>  │
+  │  │ ▒▒▒▒▒ │  │────>│  0 AI      │───> │  <Features/>│
+  │  │       │  │     │  55 tests  │     │   <Footer/> │
+  │  └───────┘  │     └────────────┘     │   )}        │
   └─────────────┘                        └─────────────┘
      sketch                                  code
 ```
