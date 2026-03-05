@@ -1,6 +1,6 @@
 ## VIRAJ SHEORAN
 
-Backend engineer. Building deterministic developer tools and real-time systems.
+Backend Engineer. Building deterministic developer tools and real-time systems.
 
 ```
   ┌─────────────┐                        ┌─────────────┐
@@ -15,17 +15,20 @@ Backend engineer. Building deterministic developer tools and real-time systems.
      sketch                                  code
 ```
 
-[d2d](https://github.com/mevirajsheoran/d2d-compiler) — deterministic wireframe-to-react compiler. no AI calls. [live](https://d2d-drawing-to-designs-vz1k.vercel.app/)
+D2D → deterministic design compiler. <300ms pipeline. 55 tests. no AI.
+[live](https://d2d-drawing-to-designs-vz1k.vercel.app/) · [repo](https://github.com/mevirajsheoran/d2d-compiler)
 
-[meetly](https://interview-platform-4mblc.sevalla.app/) — real-time collaborative coding platform
+meetly → real-time collaborative coding platform (websocket sync)
+[live](https://interview-platform-4mblc.sevalla.app/)
 
-[fyra](https://fyra-ai-fitness-assitant.vercel.app/) — voice assistant with fallback AI architecture
+fyra → voice assistant with fallback AI architecture
+[live](https://fyra-ai-fitness-assitant.vercel.app/)
 
-[learnix]() — RAG learning platform with vector search
+learnix → RAG learning platform with vector search
 
 ### STACK
 
-`typescript` `node` `react` `next.js` `websocket` `convex` `vitest`
+typescript · node.js · react · next.js · websocket · convex · vitest
 
 ### CONNECT
 
