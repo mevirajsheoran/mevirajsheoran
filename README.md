@@ -19,7 +19,7 @@ D2D → deterministic design compiler. <300ms pipeline. 55 tests. no AI.
 [live](https://d2d-drawing-to-designs-vz1k.vercel.app/) · [repo](https://github.com/mevirajsheoran/d2d-compiler)
 
 meetly → real-time collaborative coding platform (websocket sync)
-[live](https://interview-platform-4mblc.sevalla.app/)
+[live](https://meetly-orpin.vercel.app/)
 
 fyra → voice assistant with fallback AI architecture
 [live](https://fyra-ai-fitness-assitant.vercel.app/)
